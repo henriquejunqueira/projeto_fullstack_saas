@@ -36,3 +36,6 @@
   `cd odontopro`
 - Rodando o projeto:
   `npm run dev`
+
+- Instalando Shadcn:
+  `npx shadcn@latest init`
