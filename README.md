@@ -39,3 +39,9 @@
 
 - Instalando Shadcn:
   `npx shadcn@latest init`
+
+- Instalação de biblioteca de ícones:
+  `npm install lucide-react`
+
+- Instalação do menu hambúrguer:
+  `npx shadcn@latest add sheet`
