@@ -1,3 +1,4 @@
+import { Footer } from './_componentes/footer';
 import { Header } from './_componentes/header';
 import { Hero } from './_componentes/hero';
 import { Professionals } from './_componentes/professionals';
@@ -10,6 +11,7 @@ export default function Home() {
       <div>
         <Hero />
         <Professionals />
+        <Footer />
       </div>
     </div>
   );
