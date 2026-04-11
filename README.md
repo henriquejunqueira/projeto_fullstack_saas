@@ -45,3 +45,6 @@
 
 - Instalação do menu hambúrguer:
   `npx shadcn@latest add sheet`
+
+- Instalação da biblioteca de cards:
+  `npx shadcn@latest add card`
